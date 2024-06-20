@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey! Welcome 👋
+
+My name is Vinicius, I'm a cybersecurity student and DevSecOps intern, deeply interested in learning more about cloud security, IaC and incident response. Also curious about computer forensics. Feel free to contact me via LinkedIn: [Vinicius Moraes]([URL](https://www.linkedin.com/in/vini-de-moraes/))
+
+<img alt="Hacker on a 8 bits art" src="[YOUR-DEFAULT-IMAGE](https://tse1.mm.bing.net/th?id=OIG1.fWVBiLtQ_KjfuXG9zoFY&pid=ImgGn)">
 
 <!--
 **ViniStark/ViniStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
